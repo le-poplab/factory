@@ -6,7 +6,7 @@ Dans le cadre de l’appel à projet FACT - « Innovations organisationnelles et
 
 7 projets sont en cours de définition.
 
-### Cartographie des connaissances / compétences
+### (F1) Cartographie des connaissances / compétences
 
 Indentifier, collecter, décrire, relier et représenter les connaissances et compétences des personnes de l'entreprise.
 
@@ -32,17 +32,55 @@ L'expérimentation se conclue sur la production de :
 - Microlearning : http://www.microlearning.net/
 - Arbre de connaissances : https://fr.wikipedia.org/wiki/Arbre_de_connaissances
 
-### Processus de décision agile et ludique
+### (F2) Processus de décision agile et ludique
 
 Définir le processus de décision lié à la vie de l'entreprise. Identifier et tester les outils pour le mettre en oeuvre.
+
+#### Lancement : Inspiration / veille (recueil de processus existants)
+Un temps de veille et de collecte de processus de décisions est menée par le groupe de ce projet. Chaque ressource identifiée fait l'objet d'une petite synthèse permettant d'en faire ressortir les points intéressants et reproductibles dans l'entreprise ainsi que d'éventuels écueils à éviter.
+
+#### Définition du processus de décision
+Sur la base des élements collectés, le groupe rédige une première version du processus. Il devra notamment couvrir :
+- Les méthodes pour des décisions individuelles et collectives (grand et petit groupe)
+- La documentation des décisions 
+- Les outils nécessaires (physiques et en ligne)
+
+#### Mise en test
+L'entreprise décide la durée et le périmètre de l'expérimentation (décisions internes, externes, stratégiques). On recommande d'y associer l'ensemble (ou le plus possible) des personnes de l'entreprise. Les participants devront être à l'aise avec l'ensemble des outils de décisions et de documentation.
+
+#### Débriefing / Itération
+La documentation des décisions prise pendant l'expérimentation doit permettre de faire ressortir collectivement :
+- Les forces / faiblesses du processus
+- Le ressenti personnel des décisionnaires et des personnes impactées par la décisions
+- L'efficience de la décision (principalement par rapport à processus de décision antérieur)
+
+Le croisement de l'ensemble des expériences permet au groupe initial d'apporter les corrections nécessaires au processus et de démarrer une nouvelle itération.
 
 ### Sprint de projet collaboratif
 
 Définir un méthodologie de travail collaboratif sur des temps très court pour faire appel à l'intelligence collective de l'entreprise à l'intiative de toute personne.
 
+#### Lancement : Identifier un ou deux projets types 
+Certains projets dans l'entreprise font régulièrement appel à l'intelligence collective. Parmi ceux-là, on identifiera un ou deux projets de test (réponse à appel d'offre, préparation d'un rendez-vous important, préparation d'une intervention type conférence....) sur lesquels s'appuyer.
+
+#### Etape 1 : Dire l'essentiel d'un projet
+Le "porteur" de ce projet sera accompagné pour identifer comment présenter les éléments minimums et nécessaires de son projet à un public dans un tempq très court. 
+
+#### Etape 2 : Méthodologies 
+Quand le porteur sait présenter les éléments saillants de son projet en quelques minutes (à destination d'une personne n'en ayant jamais eu connaissance avant), on expérimentera plusieurs méthodologies de collaboration "sprintés" en fonction du type de besoin du porteur (créativité, validation de la bonne compréhension, test ou démonstration d'un projet...)
+
+#### Etape 3 : Intégrer, capitaliser les retours dans son projet
+Le porteur doit à l'issu du temps très court de participation savoir intégré à son projet les entrées fournies par les participants.
+
+#### Débriefing / Itération
+A l'issu d'un premier test, on capitalisera sur cette première expérience en décrivant un "guide méthodologique" de conduite d'un sprint collaboratif. Il sera mis à l'épreuve rapidement d'un nouveau projet pour enclencher les itérations suivantes.
+
 ### Manager / Innover par le jeu
 
 Répérage des jeux (plateaux, cartes, jeux video) dont l'usage pourrait être détourner pour mettre en place des processus de travail collaboratif.
+
+#### Lancement : collecte de la "ludothèque"
+Un appel est passé à l'ensemble des personnes de l'entreprise pour
 
 ### Banque de temps libre
 
