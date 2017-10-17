@@ -11,89 +11,43 @@ test.
 
 Indentifier, collecter, décrire, relier et représenter les connaissances et compétences des personnes de l'entreprise.
 
-#### Lancement : Définir la méthode de recueil de compétences / connaissances.
-La première difficulté est définir la taxonomie sur laquelle construire le répertoire de connaissance. Plutôt qu'une approche théorique basé sur une catégorisation existante, nous envisageons une approche basé sur l'expérience et le faire : 
-- Identifier des problématiques concrètes de l'entreprise formulée sous la forme d'un cas d'usage (ex: je veux créer une newsletter)
-- Décomposer l'action globale en action granulaire (granularité à définir) reposant sur un minimum de compétences / connaissances
-- Identifier les ressources (corpus documentaires, ressources en ligne, ressources humaines) capables d'apporter les compétences / connaissances nécessaires à la conduite de l'action granulaire
-- Composer un parcours de "formation" permettant d'assembler les compétences/connaissances
-
-#### Expérimentation en groupe thématique
-Un ou plusieurs groupes expérimentaux testent la méthodologie sur la base d'un ensemble de cas d'usage (10 environ) autour d'une thématique. 
-L'expérimentation thématique permet de construire un ensemble de grain d'apprentissage accesible au sein de l'entreprise ou d'identifier ceux à acquérir en externe, ainsi qu'un corpus de ressources.
-
-#### Construction de la taxonomie / préparation des itérations
-Le groupe méthodologique initial se basant sur le recueil de grain d'apprentissage construit une première trame de taxonomie et imagine sa représentation (liste, arbre, réseau...) 
-L'expérimentation se conclue sur la production de : 
-- une trame méthodologie de recueil des besoins et compétences
-- une représentation graphique de la taxonomie des compétences / connaissances de l'entreprise
-- une précaunisation sur l'itération suivante de l'expérimentation (collecte, représentation, usage)
-
-#### Sources / Références
-- Microlearning : http://www.microlearning.net/
-- Arbre de connaissances : https://fr.wikipedia.org/wiki/Arbre\_de\_connaissances
+[Voir la description du projet](projets/F1-description.md)
 
 ### (F2) Processus de décision agile et ludique
 
 Définir le processus de décision lié à la vie de l'entreprise. Identifier et tester les outils pour le mettre en oeuvre.
 
-#### Lancement : Inspiration / veille (recueil de processus existants)
-Un temps de veille et de collecte de processus de décisions est menée par le groupe de ce projet. Chaque ressource identifiée fait l'objet d'une petite synthèse permettant d'en faire ressortir les points intéressants et reproductibles dans l'entreprise ainsi que d'éventuels écueils à éviter.
+[Voir la description du projet](projets/F2-description.md)
 
-#### Définition du processus de décision
-Sur la base des élements collectés, le groupe rédige une première version du processus. Il devra notamment couvrir :
-- Les méthodes pour des décisions individuelles et collectives (grand et petit groupe)
-- La documentation des décisions 
-- Les outils nécessaires (physiques et en ligne)
-
-#### Mise en test
-L'entreprise décide la durée et le périmètre de l'expérimentation (décisions internes, externes, stratégiques). On recommande d'y associer l'ensemble (ou le plus possible) des personnes de l'entreprise. Les participants devront être à l'aise avec l'ensemble des outils de décisions et de documentation.
-
-#### Débriefing / Itération
-La documentation des décisions prise pendant l'expérimentation doit permettre de faire ressortir collectivement :
-- Les forces / faiblesses du processus
-- Le ressenti personnel des décisionnaires et des personnes impactées par la décisions
-- L'efficience de la décision (principalement par rapport à processus de décision antérieur)
-
-Le croisement de l'ensemble des expériences permet au groupe initial d'apporter les corrections nécessaires au processus et de démarrer une nouvelle itération.
-
-### Sprint de projet collaboratif
+### (F3) Sprint de projet collaboratif
 
 Définir un méthodologie de travail collaboratif sur des temps très court pour faire appel à l'intelligence collective de l'entreprise à l'intiative de toute personne.
 
-#### Lancement : Identifier un ou deux projets types
-Certains projets dans l'entreprise font régulièrement appel à l'intelligence collective. Parmi ceux-là, on identifiera un ou deux projets de test (réponse à appel d'offre, préparation d'un rendez-vous important, préparation d'une intervention type conférence....) sur lesquels s'appuyer.
+[Voir la description du projet](projets/F3-description.md)
 
-#### Etape 1 : Dire l'essentiel d'un projet
-Le "porteur" de ce projet sera accompagné pour identifer comment présenter les éléments minimums et nécessaires de son projet à un public dans un tempq très court. 
-
-#### Etape 2 : Méthodologies
-Quand le porteur sait présenter les éléments saillants de son projet en quelques minutes (à destination d'une personne n'en ayant jamais eu connaissance avant), on expérimentera plusieurs méthodologies de collaboration "sprintés" en fonction du type de besoin du porteur (créativité, validation de la bonne compréhension, test ou démonstration d'un projet...)
-
-#### Etape 3 : Intégrer, capitaliser les retours dans son projet
-Le porteur doit à l'issu du temps très court de participation savoir intégré à son projet les entrées fournies par les participants.
-
-#### Débriefing / Itération
-A l'issu d'un premier test, on capitalisera sur cette première expérience en décrivant un "guide méthodologique" de conduite d'un sprint collaboratif. Il sera mis à l'épreuve rapidement d'un nouveau projet pour enclencher les itérations suivantes.
-
-### Manager / Innover par le jeu
+### (F4) Manager / Innover par le jeu
 
 Répérage des jeux (plateaux, cartes, jeux video) dont l'usage pourrait être détourner pour mettre en place des processus de travail collaboratif.
 
-#### Lancement : collecte de la "ludothèque"
-Un appel est passé à l'ensemble des personnes de l'entreprise pour
+[Voir la description du projet](projets/F4-description.md)
 
-### Banque de temps libre
+### (F5) Banque de temps libre
 
 Expérimenter la stigmergie en entreprise par l'octroi d'un volume horaire librement affectable à toutes personnes de l'entreprise
 
-### Partage et intelligence collective
+[Voir la description du projet](projets/F5-description.md)
+
+### (F6) Partage et intelligence collective
 
 Répérer et mettre en oeuvre toutes les sources et solutions de partage des apports en connaissances professionnelles et personnelles des personnes de l'entreprise (bibliothèque physique et virtuelle, veille, chaine vidéo...)
 
-### Table de mixage / Météo des humeurs
+[Voir la description du projet](projets/F6-description.md)
+
+### (F7) Table de mixage / Météo des humeurs
 
 Matérialiser l'humeur, les points de satisfaction et de désagrement des personnes de l'entreprise à travers un outil ludique (carte "météo", table de mixage, etc...) 
+
+[Voir la description du projet](projets/F7-description.md)
 
 ## Déroulé des expérimentations
 
